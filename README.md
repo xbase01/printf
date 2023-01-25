@@ -56,4 +56,4 @@ holberton.h - contains the standard library functions used in the project
 <h2>Tests</h2>
 <p>The project includes test files to ensure proper functionality. These files can be found in the tests directory and can be executed using the provided Makefile.</p>
 <h2>Collaboration</h2>
-<p>This project was completed as a team effort by Jude and Lizzy. All team members contributed to the design and implementation of the _printf function.</p>
+<p>This project was completed as a team effort by Lizzy Sekhu and Jude Aneke. All team members contributed to the design and implementation of the _printf function.</p>
