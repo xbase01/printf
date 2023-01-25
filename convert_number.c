@@ -1,4 +1,6 @@
 #include "main.h"
+#define CONVERT_UNSIGNED 1
+#define CONVERT_LOWERCASE 2
 
 /**
  * print_hex - prints unsigned hex numbers in lowercase
